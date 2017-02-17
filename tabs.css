@@ -1,0 +1,19 @@
+body {
+  color: green;
+  font-family: "sans-serif", Arial, Verdana;
+}
+h1 {
+  color: red;
+}
+.nav-tab {
+  text-align: center;
+  color: darkblue;
+  background-color: lightskyblue;
+  border-style: solid;
+}
+.navigation {
+  text-decoration: none;
+}
+div:hover {
+  background-color: lightcyan;
+}
